@@ -5,3 +5,4 @@ Base de datos de aplicativo de central meteorológica CeMSA, en MySql
 Pablo F. Jornet
 Claudio E. Oliveda
 Karen Y. Cruz
+Pablo G. Gómez
